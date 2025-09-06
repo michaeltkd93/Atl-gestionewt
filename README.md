@@ -15,5 +15,3 @@ npm run dev
 ## Note
 - Il logo ufficiale ATL è in `public/logo-atl.pdf` e viene mostrato nel layout tramite <object>.
 - Il calcolo scadenze rispetta: Mensile (+1 mese stesso giorno, clamp fine mese), Quadrimestre (+4 mesi), Annuale (30/07).
-
-update
